@@ -1,0 +1,19 @@
+{
+  "name": "pry-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/example.coffee",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:blainesch/pry-example.git"
+  },
+  "author": "blainesch",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/blainesch/pry-example/issues"
+  },
+  "homepage": "https://github.com/blainesch/pry-example"
+}
