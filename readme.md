@@ -1,5 +1,7 @@
 ## Pry.js Examples
 
+![logo](assets/pry-yellow.jpg)
+
 There is a [slideshow](http://www.slideshare.net/BlaineSch/pryjs-44754467) associated with this talk.
 
 ## Running
