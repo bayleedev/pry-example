@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/blainesch/pry-example",
   "devDependencies": {
-    "pryjs": "0.0.10"
+    "pryjs": "0.1.1"
   }
 }

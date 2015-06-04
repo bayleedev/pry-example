@@ -4,9 +4,9 @@ pry = require('pryjs')
 class FizzBuzz
 
   run: ->
-    for i in [1..100]
+    for i in [1..15]
       output = ''
-      eval(pry.it)
+      # eval(pry.it) // help, play, wtf, whereami, stop, kill!
       output += "Fizz" if i % 3 is 0
       output += "Buzz" if i % 5 is 0
       console.log output || i
