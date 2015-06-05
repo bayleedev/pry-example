@@ -4,8 +4,8 @@ pry = require('pryjs');
 function fizzBuzz() {
   var i, output;
   for (i = 1; i <= 15; i++) {
-    output = '';
     // eval(pry.it); // help, play, wtf, whereami, stop, kill!
+    output = '';
     if (!(i % 3)) output += 'Fizz';
     if (!(i % 5)) output += 'Buzz';
     console.log(output || i);
